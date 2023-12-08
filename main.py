@@ -15,3 +15,4 @@ while True:
         attempts -= 1
     if attempts == 0:
         print('Ты проиграл!')
+    print('fgfgfgfg')
